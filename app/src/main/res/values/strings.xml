@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShortcutExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_shortcut_two">Create Shortcut TWo</string>
+    <string name="create_shortcut_one">Create Shortcut One</string>
+    <string name="i_am_fragment_three">I am Fragment Three</string>
+    <string name="i_am_fragment_one">I am Fragment One</string>
+    <string name="i_am_fragment_two">I am Fragment Two</string>
+    <string name="ShortcutOne">Shortcut One</string>
+    <string name="ShortcutTwo">Shortcut Two</string>
+</resources>
